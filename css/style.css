@@ -929,7 +929,7 @@ body::after {
   }
 }
 
-[fadeinup] .loaded._watcher-view {
+.loaded [fadeinup]._watcher-view {
   -webkit-animation: fadeinup 1s ease-in-out;
           animation: fadeinup 1s ease-in-out;
 }
